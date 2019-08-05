@@ -20,7 +20,7 @@
     <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
     <tags>nsm dynamic static site generator</tags>
 	<dependencies>
-		<dependency id="Git" />
+		<dependency id="git" />
 	</dependencies>
     <description>
 		install: `choco install nsm`
