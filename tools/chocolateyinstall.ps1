@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop'; # stop on all errors
 
-$toolsDir   = "nsm\tools"
+$toolsDir   = "tools"
 $url        = 'https://github.com/nifty-site-manager/nsm-chocolatey/raw/master/nsm.exe' # download url, HTTPS preferred
 
 $packageArgs = @{
@@ -8,18 +8,16 @@ $packageArgs = @{
   unzipLocation = $toolsDir
   fileType      = 'exe' #only one of these: exe, msi, msu
   url           = $url
-  url64bit      = $url64
-  file         = nsm.exe
 
   softwareName  = 'nsm'
 
   # You can also use checksum.exe (choco install checksum) and use it 
   # e.g. checksum -t sha256 -f path\to\file
-  checksum      = '75C56B1E6FF1D5955729CC6E50553A65B0E11326B07EB99F1E8335EAD2C7531D'
+  checksum      = 'BF5CD7DB397024779503B6F252E24388AB2FE10C88EE82746987619934D55F8A'
   checksumType  = 'sha256' 
 
   # MSI
-  silentArgs    = "/SILENT"
+  silentArgs    = ""
   validExitCodes= @(0)
 }
 

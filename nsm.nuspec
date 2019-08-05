@@ -15,7 +15,7 @@
     <copyright>2015-present</copyright>
     <licenseUrl>https://github.com/nifty-site-manager/nsm-chocolatey/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</projectSourceUrl>
+    <projectSourceUrl>https://github.com/nifty-site-manager/nsm</projectSourceUrl>
     <docsUrl>https://nift.cc/documentation/nsm_commands.html</docsUrl>
     <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
     <tags>nsm dynamic static site generator</tags>
