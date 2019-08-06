@@ -8,10 +8,10 @@
 	
     <!-- ============================== -->
 
-    <title>nsm</title>
+    <title>nifty site manager</title>
     <authors>Nick Ham</authors>
     <projectUrl>https://nift.cc</projectUrl>
-    <iconUrl>https://github.com/nifty-site-manager/nsm-chocolatey/blob/master/icon.png?raw=true</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/nifty-site-manager/nsm-chocolatey/master/icon.png</iconUrl>
     <copyright>2015-present</copyright>
     <licenseUrl>https://github.com/nifty-site-manager/nsm-chocolatey/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -33,7 +33,21 @@
 		out of date by more than a day or two, please contact the maintainer(s) and
 		let them know the package is no longer updating correctly.
 	</description>
-    <releaseNotes></releaseNotes>
+    <summary>
+		install: `choco install nsm`
+		
+		Nifty site manager (nsm) is a cross-platform open source git-like and 
+		LaTeX-like command-line dynamic and static site generator.
+		
+		See https://nift.cc
+
+		**Please Note**: This is an automatically updated package. If you find it is 
+		out of date by more than a day or two, please contact the maintainer(s) and
+		let them know the package is no longer updating correctly.
+	</summary>
+    <releaseNotes>
+    	* Version 1.0 of nifty site manager
+    </releaseNotes>
 	
     <!-- =============================== -->      
   </metadata>
