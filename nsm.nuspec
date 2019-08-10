@@ -4,7 +4,7 @@
     <id>nsm</id>
     <version>1.0</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
-	<owners>Nick Ham</owners>
+    <owners>Nick Ham</owners>
 	
     <!-- ============================== -->
 
@@ -19,41 +19,32 @@
     <docsUrl>https://nift.cc/documentation/nsm_commands.html</docsUrl>
     <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
     <tags>nsm dynamic static site generator</tags>
-	<dependencies>
-		<dependency id="git" />
-	</dependencies>
+    <dependencies>
+        <dependency id="git" />
+    </dependencies>
     <description>
-		install: `choco install nsm`
+      install: `choco install nsm`
 		
-		Nifty site manager (nsm) is a cross-platform open source git-like and 
-		LaTeX-like command-line dynamic and static site generator.
+      Nifty site manager (nsm) is a cross-platform open source git-like and 
+      LaTeX-like command-line dynamic and static site generator.
 		
-		See https://nift.cc
+      See https://nift.cc
 
-		**Please Note**: This is an automatically updated package. If you find it is 
-		out of date by more than a day or two, please contact the maintainer(s) and
-		let them know the package is no longer updating correctly.
-	</description>
-    <summary>
-		install: `choco install nsm`
-		
-		Nifty site manager (nsm) is a cross-platform open source git-like and 
-		LaTeX-like command-line dynamic and static site generator.
-		
-		See https://nift.cc
-
-		**Please Note**: This is an automatically updated package. If you find it is 
-		out of date by more than a day or two, please contact the maintainer(s) and
-		let them know the package is no longer updating correctly.
-	</summary>
+      **Please Note**: This is an automatically updated package. If you find it is 
+      out of date by more than a day or two, please contact the maintainer(s) and
+      let them know the package is no longer updating correctly.
+    </description>
+    <summary>dynamic/static site generator</summary>
     <releaseNotes>
-    	* Version 1.0 of nifty site manager
+      * Version 1.0 of nifty site manager
+      * fixed clone bug
+      * fixed Jet's config bug
     </releaseNotes>
 	
     <!-- =============================== -->      
   </metadata>
   <files>
-	<file src="*" />
+    <file src="*" />
     <file src="tools\**" target="tools" />
   </files>
 </package>
