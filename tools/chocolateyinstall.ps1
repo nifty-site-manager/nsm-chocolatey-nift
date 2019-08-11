@@ -6,7 +6,7 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
   fileType      = 'exe' #only one of these: exe, msi, msu
-  file          = "$toolsDir\nsm.exe"
+  file          = "nsm.exe"
 
   softwareName  = 'nsm'
 
