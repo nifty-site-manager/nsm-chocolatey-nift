@@ -2,13 +2,13 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.1</version>
+    <version>1.2</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
     <!-- ============================== -->
 
-    <title>nifty site manager</title>
+    <title>Nift</title>
     <authors>Nick Ham</authors>
     <projectUrl>https://nift.cc</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/nifty-site-manager/nsm-chocolatey/master/icon.png</iconUrl>
@@ -25,8 +25,8 @@
     <description>
       install: `choco install nsm`
 		
-      Nifty site manager (nsm or nift) is a cross-platform open source git-like 
-      and LaTeX-like command-line dynamic and static site generator.
+      Nift (aka nsm) is a cross-platform open source git-like and
+      LaTeX-like command-line dynamic and static site generator.
 		
       See https://nift.cc
 
@@ -36,10 +36,8 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.1 of Nift
-      * fixed clone bug
-      * fixed init bug
-      * added windows flavoured del, copy and move commands
+      * Version 1.2 of Nift
+      * removed output for successful building of pages (significant improvement in build time for 10,000 pages)
     </releaseNotes>
 	
     <!-- =============================== -->      

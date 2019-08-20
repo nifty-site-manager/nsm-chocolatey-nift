@@ -6,7 +6,7 @@
 
 Copyright (c) 2015-present [Nicholas Ham](https://n-ham.com).
 
-This is the Chocolatey repository for nifty-site-manager, a cross-platform git-like and LaTeX-like command-line site manager. It contains an executable version of nsm.
+This is the Chocolatey repository for Nift, a cross-platform git-like and LaTeX-like command-line site manager. It contains an executable version of nsm.
 
 Website: 
 \[[Official](https://nift.cc)\] \[[BitBucket](https://nifty-site-manager.bitbucket.io)\] \[[GitHub](https://nifty-site-manager.github.io)\] \[[GitLab](https://nifty-site-manager.gitlab.io)\] \[[Netlify](https://nifty-site-manager.netlify.com/)\]
