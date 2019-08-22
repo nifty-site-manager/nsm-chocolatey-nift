@@ -37,7 +37,7 @@
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
       * Version 1.5 of Nift
-      * added -O3 added serve command to serve pages locally
+      * added serve command to serve pages locally
     </releaseNotes>
 	
     <!-- =============================== -->      
