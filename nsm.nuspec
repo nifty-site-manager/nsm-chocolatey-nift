@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.5</version>
+    <version>1.6</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,8 +36,8 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.5 of Nift
-      * added serve command to serve pages locally
+      * Version 1.6 of Nift
+      * fixed open file limit bug
     </releaseNotes>
 	
     <!-- =============================== -->      
