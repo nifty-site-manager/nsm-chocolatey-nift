@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.6</version>
+    <version>1.7</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -18,7 +18,7 @@
     <projectSourceUrl>https://github.com/nifty-site-manager/nsm</projectSourceUrl>
     <docsUrl>https://nift.cc/documentation/nsm_commands.html</docsUrl>
     <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
-    <tags>nsm dynamic static site generator</tags>
+    <tags>nsm nift dynamic static site generator</tags>
     <dependencies>
         <dependency id="git" />
     </dependencies>
@@ -36,8 +36,8 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.6 of Nift
-      * fixed open file limit bug
+      * Version 1.7 of Nift
+      * added version command
     </releaseNotes>
 	
     <!-- =============================== -->      
