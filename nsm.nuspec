@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.7</version>
+    <version>1.8</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
