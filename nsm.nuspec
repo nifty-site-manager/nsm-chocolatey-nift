@@ -36,8 +36,8 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.7 of Nift
-      * added version command
+      * Version 1.8 of Nift
+      * improved multithreading support
     </releaseNotes>
 	
     <!-- =============================== -->      
