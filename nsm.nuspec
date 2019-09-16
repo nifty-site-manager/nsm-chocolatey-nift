@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.9</version>
+    <version>1.10</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,8 +36,9 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.9 of Nift
-      * added in timer for build/build-updated/build-all commands
+      * Version 1.10 of Nift
+      * added in @system and @systemout syntax to template language
+      * added in pre/post build/serve script support
     </releaseNotes>
 	
     <!-- =============================== -->      
