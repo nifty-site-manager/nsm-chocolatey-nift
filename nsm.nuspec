@@ -11,12 +11,12 @@
     <title>Nift</title>
     <authors>Nick Ham</authors>
     <projectUrl>https://nift.cc</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/nifty-site-manager/nsm-chocolatey/master/icon.png</iconUrl>
+    <iconUrl>https://www.nift.cc/images/nift-icon.png</iconUrl>
     <copyright>2015-present</copyright>
-    <licenseUrl>https://github.com/nifty-site-manager/nsm-chocolatey/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/nifty-site-manager/nsm/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/nifty-site-manager/nsm</projectSourceUrl>
-    <docsUrl>https://nift.cc/documentation/nsm_commands.html</docsUrl>
+    <docsUrl>https://www.nift.cc/docs/nift_commands.html</docsUrl>
     <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
     <tags>nsm nift dynamic static site generator</tags>
     <dependencies>
