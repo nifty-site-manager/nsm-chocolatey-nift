@@ -11,7 +11,7 @@
     <title>Nift</title>
     <authors>Nick Ham</authors>
     <projectUrl>https://nift.cc</projectUrl>
-    <iconUrl>https://www.nift.cc/images/nift-icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/nifty-site-manager/nsm-chocolatey/d1692f3d9790fa7a44c39d9f3d4ab679e13046ff/icon.png?raw=true</iconUrl>
     <copyright>2015-present</copyright>
     <licenseUrl>https://github.com/nifty-site-manager/nsm/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

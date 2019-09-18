@@ -3,12 +3,12 @@
 You can verify the checksum of the contents with `checksum -t sha256 -f filename`. The checksums should be:
  * nift.exe EAC2FD8B1B29C0CCA7A9D70C180B3A148F89557E79A49C0DC245A20F4458C148
  * nsm.exe 67598605A4C27B2CD1E34A16EFD055DD0B3591FFA10B3DFF2B9CD14FFD60FBA7
- * nsm.nuspec 15E3D52A232971747E25F8ACFFB12D29A7812CDCD0484C757A647CE28EA82844
+ * nsm.nuspec 8CDBF95AEA1E53CF00A53E72A3CCA7656838FF1064CA0429E3E74A1D84DD930E
   # You can also use checksum.exe (choco install checksum) and use it 
   # e.g. checksum -t sha256 -f path\to\file
 
 The official files can be downloaded from:
-https://github.com/nifty-site-manager/nsm-chocolatey/tree/fdcc527aa20e072db88021584e7a2a001297eae0
+https://github.com/nifty-site-manager/nsm-chocolatey/
 
 Note: checksum verification instructions are optional.
 
