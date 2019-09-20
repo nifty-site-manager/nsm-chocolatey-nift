@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.10</version>
+    <version>1.11</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,9 +36,10 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.10 of Nift
-      * added in @system and @systemout syntax to template language
-      * added in pre/post build/serve script support
+      * Version 1.11 of Nift
+      * added in Nift commands diff and pull
+      * fixed major bug with quote string function introduced in v1.10
+      * fixed various other minor things
     </releaseNotes>
 	
     <!-- =============================== -->      
