@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.13</version>
+    <version>1.14</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,9 +36,8 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.13 of Nift
-      * added in user-defined dependency support
-      * changed the way pre blocks are parsed
+      * Version 1.14 of Nift
+      * improved multithreading
     </releaseNotes>
 	
     <!-- =============================== -->      
