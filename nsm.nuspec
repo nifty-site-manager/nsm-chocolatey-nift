@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nsm</id>
-    <version>1.15</version>
+    <version>1.16</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,9 +36,11 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.15 of Nift
-      * added non-default page extension support
-      * added @dep syntax to the template language
+      * Version 1.16 of Nift
+      * improved multithreading
+      * added @inputhead syntax to the template language
+      * fixed read_sys_call and read_path
+      * improved new-page-ext
     </releaseNotes>
 	
     <!-- =============================== -->      
