@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>nsm</id>
+    <id>nift</id>
     <version>1.17</version>
-    <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey</packageSourceUrl>
+    <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey-nift</packageSourceUrl>
     <owners>Nick Ham</owners>
 
     <!-- ============================== -->
@@ -11,19 +11,19 @@
     <title>Nift</title>
     <authors>Nick Ham</authors>
     <projectUrl>https://nift.cc</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/nifty-site-manager/nsm-chocolatey/d1692f3d9790fa7a44c39d9f3d4ab679e13046ff/icon.png?raw=true</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/nifty-site-manager/nsm-chocolatey-nift/d1692f3d9790fa7a44c39d9f3d4ab679e13046ff/icon.png?raw=true</iconUrl>
     <copyright>2015-present</copyright>
     <licenseUrl>https://github.com/nifty-site-manager/nsm/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/nifty-site-manager/nsm</projectSourceUrl>
     <docsUrl>https://www.nift.cc/docs/nift_commands.html</docsUrl>
-    <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/nifty-site-manager/nsm-chocolatey-nift/issues</bugTrackerUrl>
     <tags>nsm nift dynamic static site generator</tags>
     <dependencies>
         <dependency id="git" />
     </dependencies>
     <description>
-      install: `choco install nsm`
+      install: `choco install nift`
 		
       Nift (aka nsm) is a cross-platform open source git-like and
       LaTeX-like command-line dynamic and static site generator.
