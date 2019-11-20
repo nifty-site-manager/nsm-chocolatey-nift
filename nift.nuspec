@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>nift</id>
-    <version>1.18</version>
+    <version>1.19</version>
     <packageSourceUrl>https://github.com/nifty-site-manager/nsm-chocolatey-nift</packageSourceUrl>
     <owners>Nick Ham</owners>
 
@@ -36,11 +36,13 @@
     </description>
     <summary>dynamic and static site generator</summary>
     <releaseNotes>
-      * Version 1.18 of Nift
-      * added FileSystem.[h/cpp] to the project
-      * added cpDir function to FileSystem.[h/cpp]
-      * renamed trash to ret_val and handle more errors
-      * fixed numerous minor bugs
+      * Version 1.19 of Nift
+      * added more error handling
+      * added string variables
+      * added rootBranch and siteBranch to config files
+      * changed/improved/finalised how pre/post build/serve scripts are done
+      * fixed @script[output] and @system[output/content]
+      * added pre/post build-[all/updated] script support
     </releaseNotes>
 	
     <!-- =============================== -->      
