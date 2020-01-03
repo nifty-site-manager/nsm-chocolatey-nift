@@ -1,9 +1,9 @@
 ﻿This package is released by the author/developer of the software (Nick Ham, https://n-ham.com).
 
 You can verify the checksum of the contents with `checksum -t sha256 -f filename`. The checksums should be:
- * nift.exe 4F3034A8C7C94716934EE0FC2E085965E02577FD3C58E025CD3F2657D360DD68
- * nift.nuspec 1851B933B2299C60A61BFA898CC7A3C9A06C1DD021A92AF210FE222B4308228D
- * nsm.exe 0916ACDB18C5C48C3C05B1BAC1495A56D6DF0FE1347479F14FC9F83C2CA7695B
+ * nift.exe 2FD3657BFDF390CA8FF1B591AEA36CABD12A84BAD6A0613E0292E86416BB3B73
+ * nift.nuspec DF5A665C1AC4501D465976FCA7826D92B1DE53AFBF7A9B52EA8069D85163359F
+ * nsm.exe 55899257AA36949EED561E320744866B7FEBE124698B428AFBFD5E2D548FC383
   # You can also use checksum.exe (choco install checksum) and use it 
   # e.g. checksum -t sha256 -f path\to\file
 
